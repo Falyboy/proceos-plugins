@@ -1,6 +1,6 @@
 ---
 name: serie-animee
-description: Point d'entrée du plugin serie-animee. Créer une série de reels verticaux en dessin animé (personnage récurrent, décors fixes, acolytes, voix, lèvres animées, panneaux d'explication, sous-titres mot à mot, couverture) et la tenir dans le temps, épisode après épisode. À utiliser dès que l'utilisateur veut lancer une chaîne ou une série de vidéos animées, créer des personnages ou des décors pour des reels ou des shorts, faire parler un personnage dessiné, ajouter un épisode, ou demande « par où commencer » avec ce plugin — même sans prononcer le mot « série ». Oriente vers le bon skill : installer, nouvelle-serie, bibliotheque, episode.
+description: Point d'entrée du plugin serie-animee. Créer une série de reels verticaux en dessin animé (personnage récurrent, décors fixes, acolytes, voix, lèvres animées, panneaux d'explication, sous-titres mot à mot, couverture) et la tenir dans le temps, épisode après épisode. À utiliser dès que l'utilisateur veut lancer une chaîne ou une série de vidéos animées, créer des personnages ou des décors pour des reels ou des shorts, faire parler un personnage dessiné, ajouter un épisode, ou demande « par où commencer » avec ce plugin — même sans prononcer le mot « série ». Oriente vers le bon skill (installer, nouvelle-serie, bibliotheque, episode).
 ---
 
 # Série animée : la méthode
