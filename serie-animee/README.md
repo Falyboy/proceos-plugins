@@ -24,7 +24,7 @@ Claude annonce chaque dépense avant de la lancer et attend votre accord, puis v
 /plugin marketplace add Falyboy/proceos-plugins
 /plugin install serie-animee@proceos
 ```
-Le dépôt est privé : Proceos vous y invite après l'achat (compte GitHub nécessaire, et être connecté à GitHub sur votre ordinateur, par exemple avec `gh auth login`). Mise à jour : `/plugin marketplace update proceos`.
+Gratuit. Mise à jour : `/plugin marketplace update proceos`.
 
 Puis, dans un dossier vide dédié à votre série, dites à Claude : « je veux créer une série animée ». Il commence par l'installation (skill `installer`), puis enchaîne.
 
@@ -38,4 +38,4 @@ Puis, dans un dossier vide dédié à votre série, dites à Claude : « je veux
 Elles restent dans le fichier `.env` de votre projet. Le plugin ne les affiche jamais et ne les envoie qu'au service concerné (kie.ai, ElevenLabs).
 
 ## Auteur
-Proceos — tody@proceos.io. Licence : usage réservé à l'acheteur, revente et diffusion interdites.
+Proceos — tody@proceos.io. Gratuit pour vos propres projets ; revente et redistribution interdites (voir `LICENSE`). Proceos accompagne aussi la mise en place de votre série : écrire à tody@proceos.io.

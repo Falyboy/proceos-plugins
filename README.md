@@ -1,6 +1,6 @@
 # Plugins Claude Code de Proceos
 
-Catalogue privé. Installation, après invitation sur ce dépôt :
+Gratuits pour vos propres projets (voir `LICENSE`). Installation :
 
 ```
 /plugin marketplace add Falyboy/proceos-plugins
