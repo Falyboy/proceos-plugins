@@ -1,0 +1,21 @@
+{
+  "name": "proceos",
+  "owner": {
+    "name": "Proceos",
+    "email": "tody@proceos.io"
+  },
+  "metadata": {
+    "description": "Plugins Claude Code de Proceos."
+  },
+  "plugins": [
+    {
+      "name": "serie-animee",
+      "source": "./serie-animee",
+      "description": "Créer et tenir une série de reels en dessin animé, de la première question à la vidéo vérifiée.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Proceos"
+      }
+    }
+  ]
+}

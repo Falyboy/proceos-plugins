@@ -1,0 +1,24 @@
+{
+  "titre": "Nom de la série",
+  "parleur": "A",
+  "phraseBouche": "Alors aujourd'hui, je te montre comment je travaille. Franchement, ça a tout changé dans mes journées, et je t'explique pourquoi.",
+  "personnages": {
+    "A": { "nom": "ALICE", "voix": "ID_VOIX_ELEVENLABS_ALICE", "couleur": "#FFFFFF" },
+    "B": { "nom": "BIP", "voix": "ID_VOIX_ELEVENLABS_BIP", "couleur": "#FFB37A" }
+  },
+  "acolytes": {
+    "B": { "sprite": "bip" }
+  },
+  "motActif": "#FFE14D",
+  "emissions": {
+    "t": { "nom": "MON ÉMISSION", "couleur": "#FF6500" }
+  },
+  "decors": {
+    "bureau": {
+      "appareil": "ordi",
+      "titreCouv": "haut",
+      "acolytes": { "B": { "x": 860, "y": 1190, "h": 140 } },
+      "ambianceConsigne": "quiet home office at evening, soft keyboard typing far away, no music, no voices"
+    }
+  }
+}

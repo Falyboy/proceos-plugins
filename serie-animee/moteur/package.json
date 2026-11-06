@@ -1,0 +1,11 @@
+{
+  "name": "serie-animee-moteur",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Moteur de fabrication des reels en dessin animé (plugin serie-animee). Ses dépendances sont installées dans ${CLAUDE_PLUGIN_DATA} par le skill installer.",
+  "author": "Proceos",
+  "license": "UNLICENSED",
+  "engines": { "node": ">=20" },
+  "dependencies": { "sharp": "^0.33.5" }
+}

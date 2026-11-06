@@ -1,0 +1,23 @@
+{
+  "id": "2026-12-01-premier-episode",
+  "date": "Lun. 1er déc. · 18 h 30",
+  "emission": "t",
+  "numero": 1,
+  "scene": "bureau",
+  "titre": ["Mon premier", "épisode"],
+  "couverture": { "clip": "camera", "t": 2 },
+  "panneaux": {
+    "etapes": {
+      "type": "liste",
+      "titre": "Ce que je fais",
+      "items": [["J'écris ma demande", null], ["L'IA propose", null], ["Je vérifie", "ok"]]
+    }
+  },
+  "lignes": [
+    { "q": "A", "t": "Tu perds une heure par jour sur tes mails ?", "clip": "camera" },
+    { "q": "A", "t": "Moi aussi. Jusqu'à ce que Bip arrive.", "clip": "tape", "n": { "B": "neutre" }, "sfx": "pop" },
+    { "q": "B", "t": "Salut ! Donne-moi tes brouillons.", "clip": "tape", "n": { "B": "joie" } },
+    { "q": "A", "t": "Voilà comment on fait, en trois étapes.", "clip": "tape", "n": { "B": "neutre" }, "pan": "etapes" },
+    { "q": "A", "t": "Et toi, tu lui confierais quoi ?", "clip": "camera", "n": { "B": "pouce" } }
+  ]
+}

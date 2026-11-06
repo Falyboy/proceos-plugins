@@ -1,0 +1,7 @@
+{
+  "name": "serie-animee",
+  "version": "1.0.0",
+  "description": "Créer et tenir une série de reels en dessin animé : questionnaire, personnages et décors en images, bibliothèque de gestes payée une fois, voix, lèvres animées, panneaux, sous-titres mot à mot, couverture et vérification image par image.",
+  "author": { "name": "Proceos", "email": "tody@proceos.io" },
+  "keywords": ["reels", "shorts", "animation", "dessin animé", "vidéo", "série", "instagram"]
+}
